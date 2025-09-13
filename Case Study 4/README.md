@@ -1,4 +1,4 @@
-# Art Gallery Sales and Inventory Database
+# Student Inventory Database
 Author: JOHN REY ORTIGAS BSCS
 
 📚 Table of Contents
